@@ -1,6 +1,5 @@
 {
   "sdk": {
-   //"version": "2.2.104"
-     "version": "5.2.x"
+   "version": "2.2.104"
   }
 }
